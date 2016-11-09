@@ -1,4 +1,6 @@
 #gitignore
+KL25Z_CAN_Interface/PCB/Project Logs for KL25Z_CAN_Interface/*
+KL25Z_CAN_Interface/PCB/History/*
 .settings/
 Documentation/
 Debug/
