@@ -1,15 +1,6 @@
 #gitignore
 KL25Z_CAN_Interface/PCB/Project Logs for KL25Z_CAN_Interface/*
 KL25Z_CAN_Interface/PCB/History/*
-.settings/
-Documentation/
-Debug/
-Generated_Code/
-/.cwGeneratedFileSetLog
-/*.g_c
-/*g_x
-/*.xml
+KL25Z/.metadata/*
 /*.txt
 !/readme.txt
-/.metadata/
-/RemoteSystemsTempFiles/

@@ -1,0 +1,11 @@
+#example gitignore
+.settings/
+Documentation/
+Debug/
+Generated_Code/
+/.cwGeneratedFileSetLog
+/*.g_c
+/*g_x
+/*.xml
+/*.txt
+!/readme.txt
